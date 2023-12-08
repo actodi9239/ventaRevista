@@ -1,4 +1,11 @@
 {
   "name": "ventaRevista",
-  "displayName": "ventaRevista"
+  "displayName": "ventaRevista",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "513f2af4-de0e-4970-bb82-51ef17b5d8f1"
+      }
+    }
+  }
 }
